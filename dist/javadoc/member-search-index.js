@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ejercicio","c":"Main","l":"frasesHistorial","k":"2"},{"p":"ejercicio","c":"Main","l":"frasesOriginales","k":"2"},{"p":"ejercicio","c":"Main","l":"Main()","u":"%3Cinit%3E()","k":"3"},{"p":"ejercicio","c":"Main","l":"main(String[])","u":"main(java.lang.String[])","k":"6"},{"p":"ejercicio","c":"Main","l":"scan","k":"2"}];updateSearchResults();
